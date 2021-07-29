@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Banben07
-- 👀 I’m interested in FPGA
+- 👀 I’m interested in IC
 - 🌱 I’m currently learning how to creat a good game
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
